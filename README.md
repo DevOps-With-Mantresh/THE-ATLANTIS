@@ -1,3 +1,3 @@
 # THE-ATLANTIS
 THE ATLANTIS ACADEMY
-https://kmantresh.github.io/THE-ATLANTIS/index.html
+https://kmantresh.github.io/THE-ATLANTIS/
